@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\bin\Debug\net10.0\LiveMatchApplication.deps.json
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\bin\Debug\net10.0\LiveMatchApplication.dll
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\bin\Debug\net10.0\LiveMatchApplication.pdb
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\bin\Debug\net10.0\LiveMatchDomain.dll
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\bin\Debug\net10.0\LiveMatchDomain.pdb
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\LiveMatchApplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\LiveMatchApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\LiveMatchApplication.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\LiveMatchApplication.AssemblyInfo.cs
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\LiveMatchApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\LiveMatc.26C280AE.Up2Date
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\LiveMatchApplication.dll
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\refint\LiveMatchApplication.dll
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\LiveMatchApplication.pdb
+C:\Users\User\source\repos\LiveMatch\LiveMatchApplication\obj\Debug\net10.0\ref\LiveMatchApplication.dll

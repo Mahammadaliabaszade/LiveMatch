@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LiveMatchAPI/LiveMatchAPI.csproj" />
+  <Project Path="LiveMatchApplication/LiveMatchApplication.csproj" />
+  <Project Path="LiveMatchDomain/LiveMatchDomain.csproj" />
+  <Project Path="LiveMatchInfrastructure/LiveMatchInfrastructure.csproj" />
+</Solution>

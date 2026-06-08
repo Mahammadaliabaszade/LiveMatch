@@ -1,0 +1,634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LiveMatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\dtos\\match\\matchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\dtos\\match\\matchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchdomain\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|solutionrelative:livematchdomain\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\controllers\\leaguescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\controllers\\leaguescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\persistence\\livematchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\persistence\\livematchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\livematchinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\livematchinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchdomain\\enums\\matchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|solutionrelative:livematchdomain\\enums\\matchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\controllers\\teamscontroller.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\controllers\\teamscontroller.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\repositories\\leaguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\repositories\\leaguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\services\\leagueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\services\\leagueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\interfaces\\ileaguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\interfaces\\ileaguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\interfaces\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\interfaces\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\dtos\\player\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\dtos\\player\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\dtos\\team\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\dtos\\team\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\dtos\\league\\leaguedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\dtos\\league\\leaguedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\migrations\\20260606215711_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\migrations\\20260606215711_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchdomain\\entities\\matchlineup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|solutionrelative:livematchdomain\\entities\\matchlineup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchdomain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|solutionrelative:livematchdomain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchdomain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|solutionrelative:livematchdomain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchdomain\\entities\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|solutionrelative:livematchdomain\\entities\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchdomain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|solutionrelative:livematchdomain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\livematchapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\livematchapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchdomain\\livematchdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAF799DA-4B4A-CC90-9940-C5981E568B34}|LiveMatchDomain\\LiveMatchDomain.csproj|solutionrelative:livematchdomain\\livematchdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "LiveMatchAPI\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T21:22:07.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Program.cs",
+              "RelativeToolTip": "LiveMatchAPI\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:51:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\MatchService.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\MatchService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\MatchService.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Services\\MatchService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:39:18.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Match.cs",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\Match.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Match.cs",
+              "RelativeToolTip": "LiveMatchDomain\\Entities\\Match.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:28:41.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
+              "RelativeToolTip": "LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:14:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T12:34:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\MatchRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\MatchRepository.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Repositories\\MatchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:43:32.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\MatchesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "LiveMatchAPI\\Controllers\\MatchesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:55:07.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaguesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\LeaguesController.cs",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\LeaguesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\LeaguesController.cs",
+              "RelativeToolTip": "LiveMatchAPI\\Controllers\\LeaguesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T21:00:10.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LiveMatchInfrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj",
+              "RelativeToolTip": "LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T18:42:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MatchStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Enums\\MatchStatus.cs",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\Enums\\MatchStatus.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Enums\\MatchStatus.cs",
+              "RelativeToolTip": "LiveMatchDomain\\Enums\\MatchStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:24:40.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LiveMatchDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\LiveMatchDbContext.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Persistence\\LiveMatchDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\LiveMatchDbContext.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Persistence\\LiveMatchDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:50:49.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:02:52.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "LiveMatchAPI\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:59:09.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "LiveMatchAPI\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:59:46.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\appsettings.json",
+              "RelativeToolTip": "LiveMatchAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-06T21:53:30.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:42:32.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LeagueService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\LeagueService.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\LeagueService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\LeagueService.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Services\\LeagueService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:41:29.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\PlayerService.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\PlayerService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\PlayerService.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Services\\PlayerService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:40:55.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeagueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\LeagueRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\LeagueRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\LeagueRepository.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Repositories\\LeagueRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:46:24.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\PlayerRepository.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Repositories\\PlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:45:41.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Repositories\\TeamRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:44:54.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\TeamService.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\TeamService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\TeamService.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Services\\TeamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:40:18.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILeagueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\ILeagueRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\ILeagueRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\ILeagueRepository.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Interfaces\\ILeagueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:11:03.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IMatchRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\IMatchRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IMatchRepository.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Interfaces\\IMatchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:09:05.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IPlayerRepository.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Interfaces\\IPlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:10:33.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Player\\PlayerDTO.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\Player\\PlayerDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Player\\PlayerDTO.cs",
+              "RelativeToolTip": "LiveMatchApplication\\DTOs\\Player\\PlayerDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:14:28.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Team\\TeamDTO.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\Team\\TeamDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Team\\TeamDTO.cs",
+              "RelativeToolTip": "LiveMatchApplication\\DTOs\\Team\\TeamDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:14:08.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LeagueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\League\\LeagueDTO.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\League\\LeagueDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\League\\LeagueDTO.cs",
+              "RelativeToolTip": "LiveMatchApplication\\DTOs\\League\\LeagueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:13:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\ITeamRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\ITeamRepository.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Interfaces\\ITeamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:09:56.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260606215711_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Migrations\\20260606215711_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Migrations\\20260606215711_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Migrations\\20260606215711_InitialCreate.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Migrations\\20260606215711_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:57:11.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MatchLineup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\MatchLineup.cs",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\MatchLineup.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\MatchLineup.cs",
+              "RelativeToolTip": "LiveMatchDomain\\Entities\\MatchLineup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:31:21.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Player.cs",
+              "RelativeToolTip": "LiveMatchDomain\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:27:24.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Team.cs",
+              "RelativeToolTip": "LiveMatchDomain\\Entities\\Team.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:26:55.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "League.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\League.cs",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\League.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\League.cs",
+              "RelativeToolTip": "LiveMatchDomain\\Entities\\League.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:26:10.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "LiveMatchDomain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:22:54.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LiveMatchApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\LiveMatchApplication.csproj",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\LiveMatchApplication.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\LiveMatchApplication.csproj",
+              "RelativeToolTip": "LiveMatchApplication\\LiveMatchApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T18:37:44.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LiveMatchDomain.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\LiveMatchDomain.csproj",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\LiveMatchDomain.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\LiveMatchDomain.csproj",
+              "RelativeToolTip": "LiveMatchDomain\\LiveMatchDomain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T18:34:37.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

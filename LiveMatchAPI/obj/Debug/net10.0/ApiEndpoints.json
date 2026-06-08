@@ -1,0 +1,134 @@
+[
+  {
+    "ContainingType": "LiveMatch.API.Controllers.LeaguesController",
+    "Method": "GetAllLeagues",
+    "RelativePath": "api/Leagues",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiveMatch.API.Controllers.LeaguesController",
+    "Method": "GetLeagueById",
+    "RelativePath": "api/Leagues/{leagueId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leagueId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiveMatch.API.Controllers.MatchesController",
+    "Method": "GetMatchById",
+    "RelativePath": "api/Matches/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiveMatch.API.Controllers.MatchesController",
+    "Method": "GetMatchesByLeague",
+    "RelativePath": "api/Matches/league/{leagueId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leagueId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiveMatch.API.Controllers.MatchesController",
+    "Method": "GetLiveMatches",
+    "RelativePath": "api/Matches/live",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiveMatch.API.Controllers.PlayersController",
+    "Method": "GetPlayerById",
+    "RelativePath": "api/Players/{playerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiveMatch.API.Controllers.PlayersController",
+    "Method": "GetPlayersByTeam",
+    "RelativePath": "api/Players/team/{teamId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teamId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiveMatch.API.Controllers.TeamsController",
+    "Method": "GetTeamWithPlayers",
+    "RelativePath": "api/Teams/{teamId}/players",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teamId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiveMatch.API.Controllers.TeamsController",
+    "Method": "GetTeamsByLeague",
+    "RelativePath": "api/Teams/league/{leagueId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leagueId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
