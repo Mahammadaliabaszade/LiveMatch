@@ -1,14 +1,14 @@
 ﻿using LiveMatch.Domain.Entities;
 using LiveMatchDomain.Enums;
 using System.Text.Json;
-
+using Microsoft.EntityFrameworkCore;
 namespace LiveMatch.Infrastructure.Persistence;
 
 public static class DbSeeder
 {
     public static async Task SeedAsync(LiveMatchDbContext context)
     {
-        if (context.Leagues.Any()) return;
+        if (await context.Leagues.AnyAsync()) return;
 
         var leagues = new Dictionary<string, League>
         {

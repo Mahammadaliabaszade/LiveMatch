@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiveMatchAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+319b6364cba0e7ea645da687e6c51f0e832eb7f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31421d61bb0a2da5a770d14ebbe0ebccac6b5d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiveMatchAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiveMatchAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
