@@ -47,7 +47,6 @@ app.MapControllers();
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<LiveMatchDbContext>();
-    context.Database.Migrate();
     await DbSeeder.SeedAsync(context);
 }
 
