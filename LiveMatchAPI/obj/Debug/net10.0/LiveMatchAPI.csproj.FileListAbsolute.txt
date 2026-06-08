@@ -132,3 +132,4 @@ C:\Users\User\source\repos\LiveMatch\LiveMatchAPI\bin\Debug\net10.0\Data\en.1.js
 C:\Users\User\source\repos\LiveMatch\LiveMatchAPI\bin\Debug\net10.0\Data\es.1.json
 C:\Users\User\source\repos\LiveMatch\LiveMatchAPI\bin\Debug\net10.0\Data\fr.1.json
 C:\Users\User\source\repos\LiveMatch\LiveMatchAPI\bin\Debug\net10.0\Data\it.1.json
+C:\Users\User\source\repos\LiveMatch\LiveMatchAPI\obj\Debug\net10.0\LiveMatchAPI.sourcelink.json

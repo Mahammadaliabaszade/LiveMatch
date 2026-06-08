@@ -17,3 +17,4 @@ C:\Users\User\source\repos\LiveMatch\LiveMatchInfrastructure\obj\Debug\net10.0\r
 C:\Users\User\source\repos\LiveMatch\LiveMatchInfrastructure\obj\Debug\net10.0\LiveMatchInfrastructure.pdb
 C:\Users\User\source\repos\LiveMatch\LiveMatchInfrastructure\obj\Debug\net10.0\LiveMatchInfrastructure.genruntimeconfig.cache
 C:\Users\User\source\repos\LiveMatch\LiveMatchInfrastructure\obj\Debug\net10.0\ref\LiveMatchInfrastructure.dll
+C:\Users\User\source\repos\LiveMatch\LiveMatchInfrastructure\obj\Debug\net10.0\LiveMatchInfrastructure.sourcelink.json

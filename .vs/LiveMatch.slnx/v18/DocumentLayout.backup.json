@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LiveMatch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Migrations\\20260608160721_AddRoundToMatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiveMatchInfrastructure\\Migrations\\20260608160721_AddRoundToMatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchinfrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDF3D322-7729-910C-DD02-331AD3C863AA}|LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj|solutionrelative:livematchinfrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapplication\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FC68623-A212-28CF-DE78-C65D978C9510}|LiveMatchApplication\\LiveMatchApplication.csproj|solutionrelative:livematchapplication\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|solutionrelative:livematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4BB55FE-52CE-BDAE-FA5F-CC410314299C}|LiveMatchAPI\\LiveMatchAPI.csproj|c:\\users\\user\\source\\repos\\livematch\\livematchapi\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,11 +170,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Dockerfile",
+              "RelativeToolTip": "LiveMatchAPI\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-08T16:14:03.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260608160721_AddRoundToMatch.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Migrations\\20260608160721_AddRoundToMatch.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Migrations\\20260608160721_AddRoundToMatch.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Migrations\\20260608160721_AddRoundToMatch.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Migrations\\20260608160721_AddRoundToMatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:07:22.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Program.cs",
+              "RelativeToolTip": "LiveMatchAPI\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:51:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\MatchService.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\MatchService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\MatchService.cs",
+              "RelativeToolTip": "LiveMatchApplication\\Services\\MatchService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:39:18.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Match.cs",
+              "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\Match.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Match.cs",
+              "RelativeToolTip": "LiveMatchDomain\\Entities\\Match.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T21:28:41.955Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "MatchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
+              "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
+              "RelativeToolTip": "LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T22:14:48.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeToolTip": "LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T12:34:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LiveMatchAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\appsettings.json",
+              "RelativeToolTip": "LiveMatchAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-06T21:53:30.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TeamsController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\TeamsController.cs",
               "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\TeamsController.cs",
@@ -178,72 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Program.cs",
-              "RelativeDocumentMoniker": "LiveMatchAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Program.cs",
-              "RelativeToolTip": "LiveMatchAPI\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T21:51:56.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MatchService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\MatchService.cs",
-              "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\MatchService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\MatchService.cs",
-              "RelativeToolTip": "LiveMatchApplication\\Services\\MatchService.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAUwD0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T20:39:18.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Match.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Match.cs",
-              "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\Match.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Match.cs",
-              "RelativeToolTip": "LiveMatchDomain\\Entities\\Match.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T21:28:41.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MatchDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
-              "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
-              "RelativeToolTip": "LiveMatchApplication\\DTOs\\Match\\MatchDTO.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T22:14:48.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
-              "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
-              "RelativeToolTip": "LiveMatchInfrastructure\\Persistence\\DbSeeder.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAUwHwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T12:34:07.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MatchRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\MatchRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\MatchRepository.cs",
@@ -255,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MatchesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\MatchesController.cs",
               "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\MatchesController.cs",
@@ -263,12 +307,11 @@
               "RelativeToolTip": "LiveMatchAPI\\Controllers\\MatchesController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T20:55:07.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T20:55:07.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "LeaguesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\LeaguesController.cs",
               "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\LeaguesController.cs",
@@ -280,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "LiveMatchInfrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj",
               "RelativeDocumentMoniker": "LiveMatchInfrastructure\\LiveMatchInfrastructure.csproj",
@@ -292,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "MatchStatus.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Enums\\MatchStatus.cs",
               "RelativeDocumentMoniker": "LiveMatchDomain\\Enums\\MatchStatus.cs",
@@ -304,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "LiveMatchDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Persistence\\LiveMatchDbContext.cs",
               "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Persistence\\LiveMatchDbContext.cs",
@@ -316,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\IGenericRepository.cs",
@@ -328,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "TeamsController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\TeamsController.cs",
               "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\TeamsController.cs",
@@ -340,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "PlayersController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\Controllers\\PlayersController.cs",
               "RelativeDocumentMoniker": "LiveMatchAPI\\Controllers\\PlayersController.cs",
@@ -352,19 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "LiveMatchAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchAPI\\appsettings.json",
-              "RelativeToolTip": "LiveMatchAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-06T21:53:30.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\GenericRepository.cs",
@@ -376,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "LeagueService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\LeagueService.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\LeagueService.cs",
@@ -388,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "PlayerService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\PlayerService.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\PlayerService.cs",
@@ -400,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "LeagueRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\LeagueRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\LeagueRepository.cs",
@@ -412,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "PlayerRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\PlayerRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\PlayerRepository.cs",
@@ -424,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "TeamRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Repositories\\TeamRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Repositories\\TeamRepository.cs",
@@ -436,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "TeamService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Services\\TeamService.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\Services\\TeamService.cs",
@@ -448,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ILeagueRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\ILeagueRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\ILeagueRepository.cs",
@@ -460,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "IMatchRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IMatchRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\IMatchRepository.cs",
@@ -472,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IPlayerRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\IPlayerRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\IPlayerRepository.cs",
@@ -484,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "PlayerDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Player\\PlayerDTO.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\Player\\PlayerDTO.cs",
@@ -496,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "TeamDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\Team\\TeamDTO.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\Team\\TeamDTO.cs",
@@ -508,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "LeagueDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\DTOs\\League\\LeagueDTO.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\DTOs\\League\\LeagueDTO.cs",
@@ -520,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ITeamRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\Interfaces\\ITeamRepository.cs",
               "RelativeDocumentMoniker": "LiveMatchApplication\\Interfaces\\ITeamRepository.cs",
@@ -532,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "20260606215711_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchInfrastructure\\Migrations\\20260606215711_InitialCreate.cs",
               "RelativeDocumentMoniker": "LiveMatchInfrastructure\\Migrations\\20260606215711_InitialCreate.cs",
@@ -544,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "MatchLineup.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\MatchLineup.cs",
               "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\MatchLineup.cs",
@@ -556,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Player.cs",
               "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\Player.cs",
@@ -568,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\Team.cs",
               "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\Team.cs",
@@ -580,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "League.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Entities\\League.cs",
               "RelativeDocumentMoniker": "LiveMatchDomain\\Entities\\League.cs",
@@ -592,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "LiveMatchDomain\\Common\\BaseEntity.cs",
@@ -604,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "LiveMatchApplication.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchApplication\\LiveMatchApplication.csproj",
               "RelativeDocumentMoniker": "LiveMatchApplication\\LiveMatchApplication.csproj",
@@ -616,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "LiveMatchDomain.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LiveMatch\\LiveMatchDomain\\LiveMatchDomain.csproj",
               "RelativeDocumentMoniker": "LiveMatchDomain\\LiveMatchDomain.csproj",
